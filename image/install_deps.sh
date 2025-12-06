@@ -48,6 +48,7 @@ apt install -y \
 	ca-certificates \
 	openssh-server \
 	autoconf \
+	man-db \
 	curl
 
 curl -LsSf https://astral.sh/uv/install.sh | sh

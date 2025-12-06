@@ -1,3 +1,6 @@
 [submodule "openpilot"]
 	path = openpilot
 	url = https://github.com/arseniybelkov/openpilot
+[submodule "DearPyGui"]
+	path = DearPyGui
+	url = https://github.com/arseniybelkov/DearPyGui
