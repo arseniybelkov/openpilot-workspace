@@ -47,6 +47,7 @@ apt install -y \
 	libdw-dev \
 	ca-certificates \
 	openssh-server \
-	autoconf
+	autoconf \
+	curl
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
