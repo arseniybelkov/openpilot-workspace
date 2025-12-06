@@ -1,4 +1,4 @@
-REPO_URL := "SOME"
+REPO_URL := "https://github.com/arseniybelkov/openpilot"
 
 DEFAULT_PROJECT_NAME := file_stem(REPO_URL)
 DEFAULT_CONTAINER_NAME := DEFAULT_PROJECT_NAME + "-" + "workspace"
